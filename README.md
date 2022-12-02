@@ -32,11 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghxstloner&show_icons=true&locale=en&layout=compact" alt="ghxstloner" /></p>
 
-#
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghxstloner&show_icons=true&locale=en" alt="ghxstloner" /></p>
-
-#
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghxstloner&" alt="ghxstloner" /></p>
 
