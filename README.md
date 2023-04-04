@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any project with Java language**
 
-- 💬 We can talk about ** Python, Java, Algorithms, API's, Data Structure..**
+- 💬 We can talk about **Python, Java, Algorithms, API's, Data Structure..**
 
 - 📫 How to reach me **yoinerdeyhan@gmail.com**
 
