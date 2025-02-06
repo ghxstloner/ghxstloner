@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Amaxonia ERP like a Full Stack Developer**
 
-- 🌱 I’m currently learning **Frameworks, and more for DB**
+- 🌱 I’m currently learning **Expo, and more for Mobile Development**
 
 - 👯 I’m looking to collaborate on **any project with Java language**
 
